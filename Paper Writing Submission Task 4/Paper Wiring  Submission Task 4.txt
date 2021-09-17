@@ -1,0 +1,17 @@
+
+Venue: AAAI 2022: Association for the Advancement of Artificial Intelligence
+
+Venue Link: https://aaai.org/Conferences/AAAI-22/
+
+Submission date: 17/09/2021
+
+Paper Style: Abstract Paper
+
+List of Authours in order:
+
+15341003, Mainul Hossain
+17201015, Shataddru Shyan Haque 
+18101122, Rudaba Farhin Aunindita 
+18101445, Ankan Aich
+21341032, Abdullah Al Rakin
+
